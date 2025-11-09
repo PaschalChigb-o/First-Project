@@ -1,2 +1,2 @@
 # First-Project
-#Intoductory text of project
+Intoductory text of project
